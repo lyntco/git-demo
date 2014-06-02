@@ -1,13 +1,17 @@
 # GIT steps
 
-create files
+1. create files
 
-git init
+2. git init
 
-git add files
+3. git add files
 
-make changes
+4. make changes
 
-git commit -m "Message abt changes"
+5. git commit -m "Message abt changes"
 
-git push origin master
+6. git push origin master
+
+7. ???
+
+8. Profit!
